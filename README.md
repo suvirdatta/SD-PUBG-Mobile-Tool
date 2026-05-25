@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>MK PUBG Mobile Tool</h1>
+<h1>SD PUBG Mobile Tool</h1>
 An easy-to-use GFX App For Gameloop (PUBG Mobile)<br><br>
 
 
@@ -13,7 +13,7 @@ An easy-to-use GFX App For Gameloop (PUBG Mobile)<br><br>
 
 ------
 <br>
-MK PUBG Mobile Tool is a professional utility tool that enables you to optimize your PUBG Mobile gaming experience on Gameloop emulator on PC. This tool supports all versions of PUBG Mobile, including:
+SD PUBG Mobile Tool is a professional utility tool that enables you to optimize your PUBG Mobile gaming experience on Gameloop emulator on PC. This tool supports all versions of PUBG Mobile, including:
 
 *   PUBG Mobile Global
 *   PUBG Mobile VN
@@ -87,7 +87,7 @@ python main.py
 Screenshots
 -----------
 
-Here's a screenshot of the MK PUBG Mobile Tool:
+Here's a screenshot of the SD PUBG Mobile Tool:
 
 ![MK PUBG Mobile Tool screenshot](./images/mk-pubg-mobile-tool.png)
 ![MK PUBG Mobile Tool Optimize screenshot](./images/mk-pubg-mobile-tool-optimize.png)
