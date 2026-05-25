@@ -4,7 +4,7 @@
 An easy-to-use GFX App For Gameloop (PUBG Mobile)<br><br>
 
 
-[![Author](https://img.shields.io/badge/Author-Mohamed%20Kamal-blue)](https://github.com/suvirdatta) [![GitHub Release Date](https://img.shields.io/github/release-date/MohamedKVIP/MK-PUBG-Mobile-Tool)](https://github.com/suvirdatta/SD-PUBG-Mobile-Tool/releases) [![GitHub all releases](https://img.shields.io/github/downloads/MohamedKVIP/MK-PUBG-Mobile-Tool/total?color=brightgreen)](https://github.com/suvirdatta/SD-PUBG-Mobile-Tool/releases) [![GitHub issues](https://img.shields.io/github/issues-raw/suvirdatta/SD-PUBG-Mobile-Tool)](https://github.com/suvirdatta/SD-PUBG-Mobile-Tool/issues) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedKVIP%2FMK-PUBG-Mobile-Tool&countColor=%2337d67a&style=flat)
+[![Author](https://img.shields.io/badge/Author-Suvir%20Datta-blue)](https://github.com/suvirdatta) [![GitHub Release Date](https://img.shields.io/github/release-date/MohamedKVIP/MK-PUBG-Mobile-Tool)](https://github.com/suvirdatta/SD-PUBG-Mobile-Tool/releases) [![GitHub all releases](https://img.shields.io/github/downloads/MohamedKVIP/MK-PUBG-Mobile-Tool/total?color=brightgreen)](https://github.com/suvirdatta/SD-PUBG-Mobile-Tool/releases) [![GitHub issues](https://img.shields.io/github/issues-raw/suvirdatta/SD-PUBG-Mobile-Tool)](https://github.com/suvirdatta/SD-PUBG-Mobile-Tool/issues) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedKVIP%2FMK-PUBG-Mobile-Tool&countColor=%2337d67a&style=flat)
 
 
 **English** | 
