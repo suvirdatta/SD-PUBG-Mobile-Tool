@@ -89,9 +89,9 @@ Screenshots
 
 Here's a screenshot of the SD PUBG Mobile Tool:
 
-![MK PUBG Mobile Tool screenshot](./images/mk-pubg-mobile-tool.png)
-![MK PUBG Mobile Tool Optimize screenshot](./images/mk-pubg-mobile-tool-optimize.png)
-![MK PUBG Mobile Tool About screenshot](./images/mk-pubg-mobile-tool-about.png)
+![MK PUBG Mobile Tool screenshot](./images/sd-pubg-mobile-tool.png)
+![MK PUBG Mobile Tool Optimize screenshot](./images/sd-pubg-mobile-tool-optimize.png)
+![MK PUBG Mobile Tool About screenshot](./images/sd-pubg-mobile-tool-about.png)
 
 Note
 ----
